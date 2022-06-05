@@ -1,1 +1,1 @@
-# COMP2020-P4-RISCVInterpreter-LE-HOANG-VINH-main
+# RISC-V_Interpreter_Simulation-C-project
